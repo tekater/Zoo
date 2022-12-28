@@ -120,7 +120,7 @@ int zoo = scanner.nextInt();
         System.out.println(camel);
         } else if (zoo == 2) {
         System.out.println(lion);
-		} else if (zoo == 3) {
+	} else if (zoo == 3) {
         System.out.println(deer);
         } else if (zoo == 4) {
         System.out.println(goose);
