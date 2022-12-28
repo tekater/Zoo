@@ -128,8 +128,8 @@ int zoo = scanner.nextInt();
         System.out.println(bat);
         } else if (zoo == 6) {
         System.out.println(rabbit);
-        }else {
-		System.out.println("Вы ввели неверное число");
+        } else {
+	System.out.println("Вы ввели неверное число");
 		}
 	}
 }
